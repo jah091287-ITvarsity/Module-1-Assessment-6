@@ -1,0 +1,100 @@
+.gallery img{
+    width: 300px;
+    height: 250px;
+    color:black;
+    font:20px Impact;
+}
+.galley img{
+    width: 650px;
+    height: 450px;
+    color:black;
+    font:20px Impact;
+}
+
+.gallerry img{
+    width: 413px;
+    height: 300px;
+    color:black;
+    font:20px Impact;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#menu{
+      width:100%;
+      height:40px;
+      background-color: cornflowerblue;
+      padding-top: 12px;
+}
+#menu a{
+      color:#ffffff;
+      font-family:fantasy;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      padding-left: 15px;
+      padding-right: 15px;
+}
+
+#menu a:hover{
+       color: #5077bd;
+}
+
+h2{
+    font-family:fantasy;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 35px;
+     font-style: italic;
+    text-align: center;
+    color: dodgerblue;
+}
+
+h2:hover{
+     color: silver;
+}
+
+figcaption {
+  background-color: cornflowerblue;
+  color: white;
+  font-style:normal;
+  padding: 10px;
+  text-align: center;
+  text-decoration:none;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.button{
+  background-color: cornflowerblue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    width: 100%;    
+}
+
+.button:hover{
+      background-color: grey; /* Green */
+  color: white;
+}
+
+.spc{
+    padding: 10px;
+    width: auto;
+    font-family:cursive;
+}
+
+aside{
+    float: right;
+}
